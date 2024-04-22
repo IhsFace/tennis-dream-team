@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ihsaa\\Projects\\tennis-dream-team\\Tennis Dream Team\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D8DCC5-0AE2-4532-85E2-81113814E849}|Tennis Dream Team\\Tennis Dream Team.vbproj|c:\\users\\ihsaa\\projects\\tennis-dream-team\\tennis dream team\\tennis dream team\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D5D8DCC5-0AE2-4532-85E2-81113814E849}|Tennis Dream Team\\Tennis Dream Team.vbproj|solutionrelative:tennis dream team\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D8DCC5-0AE2-4532-85E2-81113814E849}|Tennis Dream Team\\Tennis Dream Team.vbproj|C:\\Users\\ihsaa\\Projects\\tennis-dream-team\\Tennis Dream Team\\tennis dream team\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D5D8DCC5-0AE2-4532-85E2-81113814E849}|Tennis Dream Team\\Tennis Dream Team.vbproj|solutionrelative:tennis dream team\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\ihsaa\\Projects\\tennis-dream-team\\Tennis Dream Team\\Tennis Dream Team\\Form1.vb",
+              "RelativeDocumentMoniker": "Tennis Dream Team\\Form1.vb",
+              "ToolTip": "C:\\Users\\ihsaa\\Projects\\tennis-dream-team\\Tennis Dream Team\\Tennis Dream Team\\Form1.vb",
+              "RelativeToolTip": "Tennis Dream Team\\Form1.vb",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-19T06:25:42.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ihsaa\\Projects\\tennis-dream-team\\Tennis Dream Team\\Tennis Dream Team\\Form1.vb",
+              "RelativeDocumentMoniker": "Tennis Dream Team\\Form1.vb",
+              "ToolTip": "C:\\Users\\ihsaa\\Projects\\tennis-dream-team\\Tennis Dream Team\\Tennis Dream Team\\Form1.vb [Design]",
+              "RelativeToolTip": "Tennis Dream Team\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-18T00:43:47.793Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
